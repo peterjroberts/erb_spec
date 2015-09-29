@@ -1,3 +1,4 @@
+require 'capybara'
 require_relative 'defaulting_stub'
 
 module ErbSpec
