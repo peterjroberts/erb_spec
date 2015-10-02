@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.summary       = 'A method for direct testing of erb template files'
 
   s.authors       = ['Peter Roberts']
-  s.email         = 'peter.roberts@sky.uk, peterjroberts@gmail.com'
+  s.email         = 'peterjroberts@gmail.com'
 
   s.files         = Dir["lib/**/*", "README.md"]
   s.require_paths = ['lib']
